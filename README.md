@@ -7,8 +7,6 @@ Responsive ecommerce template built with Vue.js and Nuxt.js
 ## Installing
 
 ```
-# clone repository
-git clone https://github.com/ivanlori/Vuemmerce.git
 
 # install dependencies
 yarn install
